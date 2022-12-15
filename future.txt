@@ -1,0 +1,16 @@
+<users-permission android:name="android.permission.WRITE.EXTERNAL_STORAGE"/>
+    <users-permission android:name="android.permission.READ.EXTERNAL_STORAGE"/>
+    <users-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"/>
+    <users-permission android:name="android.permission.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION"/>
+
+
+
+https://api.flutter.dev/flutter/animation/Curves-class.html
+
+
+
+Future.any();//performance compareလုပ်ပေးတာ
+Future.delayed();//အချိန် စောင့်ပေးတာ
+Future.value();//normal typeကနေ future typeပြောင်းပေးတာ
+Future.wait();//parallel work
+
